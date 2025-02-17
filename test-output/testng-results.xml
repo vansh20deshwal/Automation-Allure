@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-17T19:08:46 IST" name="VanshTest" finished-at="2025-02-17T19:08:50 IST" duration-ms="3407">
+    <groups>
+    </groups>
+    <test started-at="2025-02-17T19:08:46 IST" name="Test" finished-at="2025-02-17T19:08:50 IST" duration-ms="3407">
+      <class name="com.sdetadda.allure.GetPostAllure">
+        <test-method signature="testcaseget()[pri:0, instance:com.sdetadda.allure.GetPostAllure@6cce16f4]" started-at="2025-02-17T19:08:46 IST" name="testcaseget" finished-at="2025-02-17T19:08:48 IST" duration-ms="2163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseget -->
+        <test-method signature="testcasepost()[pri:0, instance:com.sdetadda.allure.GetPostAllure@6cce16f4]" started-at="2025-02-17T19:08:48 IST" name="testcasepost" finished-at="2025-02-17T19:08:49 IST" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasepost -->
+      </class> <!-- com.sdetadda.allure.GetPostAllure -->
+      <class name="com.sdetadda.allure.PutDeleteAllure">
+        <test-method signature="testcasedelete()[pri:0, instance:com.sdetadda.allure.PutDeleteAllure@1c93f6e1]" started-at="2025-02-17T19:08:49 IST" name="testcasedelete" finished-at="2025-02-17T19:08:49 IST" duration-ms="427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasedelete -->
+        <test-method signature="testcaseput()[pri:0, instance:com.sdetadda.allure.PutDeleteAllure@1c93f6e1]" started-at="2025-02-17T19:08:49 IST" name="testcaseput" finished-at="2025-02-17T19:08:50 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseput -->
+      </class> <!-- com.sdetadda.allure.PutDeleteAllure -->
+    </test> <!-- Test -->
+  </suite> <!-- VanshTest -->
+</testng-results>
